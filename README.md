@@ -1,2 +1,2 @@
 Probando...Probando...
-Este repositorio tiene como finalidad servir de ejercicio practico de uso de GitHub.
+Este repositorio tiene como finalidad servir de ejercicio practico de uso de Git, GitHub y java.
